@@ -1,0 +1,34 @@
+{
+  "name": "juniorgpt",
+  "version": "0.0.1",
+  "description": "Your own junior developer powered by AI. Junior writes 80% of your code at the speed of light.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrionTools/JuniorGPT.git"
+  },
+  "keywords": [
+    "junior",
+    "gpt",
+    "ai",
+    "artificial intelligence",
+    "code",
+    "developer",
+    "coding",
+    "typescript",
+    "javascript",
+    "llm",
+    "gpt-4",
+    "gpt-3",
+    "claude"
+  ],
+  "author": "Matt Carey <mattc@aleios.com> (http://mattzcarey.com/)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/OrionTools/JuniorGPT/issues"
+  },
+  "homepage": "https://github.com/OrionTools/JuniorGPT#readme"
+}
